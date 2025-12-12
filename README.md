@@ -1,0 +1,2 @@
+# FiltriA
+Self-Hosted
